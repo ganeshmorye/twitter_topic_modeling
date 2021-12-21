@@ -149,10 +149,10 @@ The input number of clusters was 50 and the model ended up assigning the corpus 
 [Back to Top](#Contents)
 
 # References
-[Advanced Search Twitter Cheatsheet](https://github.com/igorbrigadir/twitter-advanced-search)
-[Topic Modeling Visualization](https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/)
-[GSDMM Modeling](https://towardsdatascience.com/short-text-topic-modelling-lda-vs-gsdmm-20f1db742e14)
-[LDA Model Evaluation](https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)
-[Parallelizing Spacy Pipeline](https://prrao87.github.io/blog/spacy/nlp/performance/2020/05/02/spacy-multiprocess.html)
+[Advanced Search Twitter Cheatsheet](https://github.com/igorbrigadir/twitter-advanced-search)<br>
+[Topic Modeling Visualization](https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/)<br>
+[GSDMM Modeling](https://towardsdatascience.com/short-text-topic-modelling-lda-vs-gsdmm-20f1db742e14)<br>
+[LDA Model Evaluation](https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0)<br>
+[Parallelizing Spacy Pipeline](https://prrao87.github.io/blog/spacy/nlp/performance/2020/05/02/spacy-multiprocess.html)<br>
 
 [Back to Top](#Contents)
