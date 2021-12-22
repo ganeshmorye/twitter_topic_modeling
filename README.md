@@ -151,6 +151,8 @@ The input number of clusters was 50 and the model ended up assigning the corpus 
 
 # Directory Tree
 
+CSV files for `output` and `tweets_data` can be downloaded using the links below. The folders in this repo are just placeholders to save the downloaded files.
+
 | **Directory** | **Contents**                                                                                                              |
 |---------------|---------------------------------------------------------------------------------------------------------------------------|
 | code          | jupyter-notebooks                                                                                                         |
