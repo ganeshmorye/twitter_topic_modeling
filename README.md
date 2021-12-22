@@ -9,6 +9,7 @@
 - [Modeling Methodology](#modeling-methodology)
 - [Results](#results)
 - [Conclusions](#conclusions)
+- [Directory Tree](#directory-tree)
 - [References](#references)
 
 # Motivation 
@@ -145,6 +146,18 @@ The input number of clusters was 50 and the model ended up assigning the corpus 
 - LDA models identified distinct topics with overlapping themes
 - LDA Multicore implementation makes running and fine tuning the hyperparameters a much faster process and is a definite advantage over the GSDMM
 
+
+[Back to Top](#Contents)
+
+# Directory Tree
+
+| **Directory** | **Contents**                                                                                                              |
+|---------------|---------------------------------------------------------------------------------------------------------------------------|
+| code          | jupyter-notebooks                                                                                                         |
+| models        | trained models                                                                                                            |
+| output        | csv files for cleaned tweets dataset and model evaluation<br> https://1drv.ms/u/s!Ar52d2HxEkbnioYmVXXLJcWwBEXvUA?e=jPj5lX |
+| presentations | presentation                                                                                                              |
+| tweets_data   | raw tweets data for each city and India<br> https://1drv.ms/u/s!Ar52d2HxEkbnkK0-WKfS6ZgDqi7gyA?e=OhInfQ                   |
 
 [Back to Top](#Contents)
 
