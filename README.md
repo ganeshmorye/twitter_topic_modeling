@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# State Farm Distracted Driver Detection
+# Topic Modeling Approach to Improve Twitter’s Search Algorithm 
 
 <!-- omit in toc -->
 # Contents
